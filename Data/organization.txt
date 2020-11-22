@@ -1,0 +1,17 @@
+Your data must be arranged as :
+
+Original_Data // without stain normlization
+|- train
+    |- a // for rgb images
+    |- b // for masks
+|- test
+    |- a
+    |- b
+
+Normalized_Data // with stain normlization
+|- train
+    |- a // for rgb images
+    |- b // for masks
+|- test
+    |- a
+    |- b
