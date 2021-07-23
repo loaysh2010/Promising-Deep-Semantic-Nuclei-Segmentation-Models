@@ -2,5 +2,5 @@
 
 please cite this paper
 
-L. Hassan, A. Saleh, M. Abdel-Nasser, O. A. Omer, D. Puig. Promising Deep Semantic Nuclei Segmentation Models for Multi-Institutional Histopathology
-Images of Different Organs, International Journal of Interactive Multimedia and Artificial Intelligence, (2020), http://dx.doi.org/10.9781/ijimai.2020.10.004
+
+Loay Hassan, Adel Saleh, Mohamed Abdel-Nasser, Osama A. Omer, & Domenec Puig (2021). Promising Deep Semantic Nuclei Segmentation Models for Multi-Institutional Histopathology Images of Different Organs. International Journal of Interactive Multimedia and Artificial Intelligence, 6(6), 35, DOI: http://dx.doi.org/10.9781/ijimai.2020.10.004
